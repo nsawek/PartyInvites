@@ -1,2 +1,0 @@
-# PartyInvites
-Test
